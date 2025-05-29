@@ -1,5 +1,8 @@
 """ module to cover the class Word
  (at least to add documentation to the word_template.json)
+
+Note: all nomenclature here is English.
+That is to be consistent with MongoDB.
 """
 import os
 from bson import json_util
@@ -7,6 +10,7 @@ from json.decoder import JSONDecodeError
 
 TEMPLATE_FILEPATH = "word_template.json"
 
+# MongoDB field names (in English)
 WORD = "word"
 LANGUAGE = "language"
 PART_OF_SPEECH = "part of speech"

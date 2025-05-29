@@ -5,45 +5,92 @@ which parse some input into Word() class.
 import re
 
 from word import Word
-from word import LANGUAGE, PART_OF_SPEECH, TOPICS, WORD
+from word import LANGUAGE, PART_OF_SPEECH, TOPICS, WORD, HYPHENATION, SOURCE, DERIVED_LANGUAGE, REMARK
 
+# Mapping from German Wiktionary terms to MongoDB field names
+DE_WIKT_TO_MONGO = {
+    # Basic fields
+    "Wort": WORD,
+    "Sprache": LANGUAGE,
+    "Wortart": PART_OF_SPEECH,
+    "Silbentrennung": HYPHENATION,
+    "Thema": TOPICS,
+    "Quelle": SOURCE,
+    "Herkunftssprache": DERIVED_LANGUAGE,
+    "Anmerkung": REMARK,
+    
+    # Parts of speech mappings
+    "Substantiv": "noun",
+    "Eigenname": "name",
+    "Verb": "verb",
+    "Adjektiv": "adjective",
+    "Adverb": "adverb",
+    "Pronomen": "pronoun",
+    "Präposition": "preposition",
+    "Konjunktion": "conjunction",
+    "Interjektion": "interjection",
+    "Numerale": "numeral",
+    "Artikel": "article",
+    
+    # Language mappings
+    "Deutsch": "German",
+    "Englisch": "English",
+    "Altgriechisch": "Ancient Greek",
+    "Latein": "Latin",
+}
 
 class DeWiktParser(object):
-    """de-wikt"""
+    """Parser for German Wiktionary entries"""
 
     def __init__(self, content):
         self.content = content
 
     def _get_header_sections(self):
-        # TODO
-        #  get everything before == HEADER ==, and all Header Sections
-        #  when I finally get how the shit works
-        # res = re.findall("={2}[^=][.]+={2}", self.content)
-        # res = re.findall("={2}.+={2}", self.content, re.MULTILINE)
-        # perhaps like this
-        # res = re.findall("(.*?)(==[^\n]*)(.*?)", self.content, re.DOTALL)
-        # H2_pattern = "[^=]={2}(?:[^=]).*[^=]={2}(?:[^=])"
-
-        res = re.findall("(.*?)[^=]={2}[^=].*?[^=]={2}[^=]", self.content, re.DOTALL)
-        pre_header = res[0]
-        rest = res[1]
-        # TODO split by header sections
-
-        print(res)
+        """
+        Parse header sections from wikitext content.
+        Extracts sections in the format: == <page title> ({{Sprache|language}}) ==
+        Returns a list of tuples (title, language, section_content)
+        """
+        # Pattern to match header sections
+        # == title ({{Sprache|lang}}) ==
+        header_pattern = r"==\s*([^=\n(]+?)\s*\({{Sprache\|([^}]+)}}\)\s*=="
+        
+        # Split content into sections by headers
+        sections = re.split(header_pattern, self.content)
+        
+        # First element is content before any headers
+        pre_header = sections[0]
+        
+        # Process remaining sections
+        parsed_sections = []
+        for i in range(1, len(sections), 3):  # Step by 3 because we have title, lang, and content groups
+            if i + 2 < len(sections):
+                title = sections[i].strip()
+                language = DE_WIKT_TO_MONGO.get(sections[i + 1].strip(), sections[i + 1].strip())  # Map language if possible
+                content = sections[i + 2].strip()
+                parsed_sections.append((title, language, content))
+        
+        return pre_header, parsed_sections
 
     def parse(self):
-        """"""
-        # TODO implement actual regexing
-        tmp_dict = {}
-        # TODO: WORD
-        # tmp_dict[WORD] = ???
-        self._get_header_sections()
-        # TODO: LANGUAGE
-        # TODO: PART_OF_SPEECH
-        # TODO: HYPHENATION
-        # TODO: TOPICS
-
-        return Word(tmp_dict)
+        """Parse the wikitext content into a Word object."""
+        pre_header, sections = self._get_header_sections()
+        
+        # Initialize word dictionary
+        word_dict = {}
+        
+        # If we have any sections, use the first one as the main entry
+        if sections:
+            title, language, content = sections[0]
+            word_dict[WORD] = title
+            word_dict[LANGUAGE] = language
+            
+            # TODO: Extract additional information from content:
+            # - Part of speech
+            # - Hyphenation
+            # - Topics
+            
+        return Word(word_dict)
 
 
 class TextParser(object):

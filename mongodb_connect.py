@@ -16,12 +16,15 @@ COL_NAME = "words"
 
 class MongoHandler(object):
     def __init__(self):
-        mc = pymongo.MongoClient(host=MONGO_HOST, port=MONGO_PORT)
-        db = mc.get_database(DB_NAME)
+        self.mc = pymongo.MongoClient(host=MONGO_HOST, port=MONGO_PORT)
+        db = self.mc.get_database(DB_NAME)
         # print(db.list_collection_names())
 
         self.word_coll = db.get_collection(COL_NAME)
         self.word_coll.create_index([(WORD, pymongo.ASCENDING)], unique=True)
+
+    def close(self):
+        self.mc.close()
 
     def insert_word(self, word):
         try:

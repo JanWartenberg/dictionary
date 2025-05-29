@@ -1,0 +1,5 @@
+# MongoDB driver (includes bson)
+pymongo>=4.6.1
+pytest>=8.0.0
+requests
+lxml
