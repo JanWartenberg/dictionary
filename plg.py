@@ -21,7 +21,6 @@ EX_CAT = "Kategorie:Präposition (Deutsch)"
 EX_LEMMA = "hinsichtlich"
 
 
-
 def search_db():
     mh = MongoHandler()
     res = mh.word_coll.aggregate(
@@ -55,7 +54,6 @@ def parse_wikt_dump():
         dwp = DeWiktParser(content)
         word = dwp.parse()
         print(word)
-
 
 
 if __name__ == "__main__":
