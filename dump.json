@@ -1,0 +1,5514 @@
+[
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722920"
+        },
+        "word": "Bora Horza Gobuchul",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722921"
+        },
+        "word": "Determinist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722922"
+        },
+        "word": "Eschatologist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722923"
+        },
+        "word": "Irregular Apocalypse",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722924"
+        },
+        "word": "No More Mr Nice Guy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722925"
+        },
+        "word": "Profit Margin",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722926"
+        },
+        "word": "Nervous Energy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722927"
+        },
+        "word": "Prosthetic Conscience",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722928"
+        },
+        "word": "Revisionist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722929"
+        },
+        "word": "Trade Surplus",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72292a"
+        },
+        "word": "The Ends Of Invention",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72292b"
+        },
+        "word": "The Hand of God 137",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72292c"
+        },
+        "word": "Clear Air Turbulence",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72292d"
+        },
+        "word": "Control Surface",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72292e"
+        },
+        "word": "Cargo Cult",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72292f"
+        },
+        "word": "Little Rascal",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722930"
+        },
+        "word": "So Much For Subtlety",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722931"
+        },
+        "word": "Unfortunate Conflict Of Evidence",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722932"
+        },
+        "word": "Youthful Indiscretion",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722933"
+        },
+        "word": "Flexible Demeanour",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722934"
+        },
+        "word": "Just Read The Instructions",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722935"
+        },
+        "word": "Of Course I Still Love You",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722936"
+        },
+        "word": "Zealot",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722937"
+        },
+        "word": "Limiting Factor",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722938"
+        },
+        "word": "Gunboat Diplomat",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722939"
+        },
+        "word": "Kiss My Ass",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72293a"
+        },
+        "word": "Prime Mover",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72293b"
+        },
+        "word": "Screw Loose",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72293c"
+        },
+        "word": "Invincible",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72293d"
+        },
+        "word": "Bad For Business",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72293e"
+        },
+        "word": "Ablation",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72293f"
+        },
+        "word": "Arbitrary",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722940"
+        },
+        "word": "Arrested Development",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722941"
+        },
+        "word": "A Series Of Unlikely Explanations",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722942"
+        },
+        "word": "A Ship With A View",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722943"
+        },
+        "word": "Big Sexy Beast",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722944"
+        },
+        "word": "Boo!",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722945"
+        },
+        "word": "Cantankerous",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722946"
+        },
+        "word": "Credibility Problem",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722947"
+        },
+        "word": "Dramatic Exit",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722948"
+        },
+        "word": "Excuses And Accusations",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722949"
+        },
+        "word": "Funny, It Worked Last Time...",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72294a"
+        },
+        "word": "God Told Me To Do It",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72294b"
+        },
+        "word": "Halation Effect",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72294c"
+        },
+        "word": "Happy Idiot Talk",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72294d"
+        },
+        "word": "Helpless In The Face Of Your Beauty",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72294e"
+        },
+        "word": "Heresiarch",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72294f"
+        },
+        "word": "I Thought He Was With You",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722950"
+        },
+        "word": "It'll Be Over By Christmas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722951"
+        },
+        "word": "Just Another Victim Of The Ambient Morality",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722952"
+        },
+        "word": "Minority Report",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722953"
+        },
+        "word": "Never Talk To Strangers",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722954"
+        },
+        "word": "Not Wanted On Voyage",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722955"
+        },
+        "word": "Only Slightly Bent",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722956"
+        },
+        "word": "Perfidy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722957"
+        },
+        "word": "Sacrificial Victim",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722958"
+        },
+        "word": "Space Monster",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722959"
+        },
+        "word": "Stranger Here Myself",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72295a"
+        },
+        "word": "Synchronize Your Dogmas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72295b"
+        },
+        "word": "Thank You And Goodnight",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72295c"
+        },
+        "word": "The Precise Nature Of The Catastrophe",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72295d"
+        },
+        "word": "Ultimate Ship The Second",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72295e"
+        },
+        "word": "Undesirable Alien",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72295f"
+        },
+        "word": "Unwitting Accomplice",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722960"
+        },
+        "word": "Well I Was In The Neighbourhood",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722961"
+        },
+        "word": "You'll Thank Me Later",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722962"
+        },
+        "word": "You Would If You Really Loved Me",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722963"
+        },
+        "word": "Congenital Optimist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722964"
+        },
+        "word": "Size Isn't Everything",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722965"
+        },
+        "word": "What Are the Civilian Applications?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722966"
+        },
+        "word": "Just Testing",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722967"
+        },
+        "word": "Sweet and Full of Grace",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722968"
+        },
+        "word": "Very Little Gravitas Indeed",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722969"
+        },
+        "word": "Xenophobe",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72296a"
+        },
+        "word": "Anticipation Of A New Lover's Arrival, The",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72296b"
+        },
+        "word": "Death And Gravity",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72296c"
+        },
+        "word": "Ethics Gradient",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72296d"
+        },
+        "word": "Honest Mistake",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72296e"
+        },
+        "word": "Limivorous",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72296f"
+        },
+        "word": "Uninvited Guest",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722970"
+        },
+        "word": "Use Psychology",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722971"
+        },
+        "word": "What Is The Answer And Why?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722972"
+        },
+        "word": "Wisdom Like Silence",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722973"
+        },
+        "word": "Yawning Angel",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722974"
+        },
+        "word": "Zero Gravitas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722975"
+        },
+        "word": "Not Invented Here",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722976"
+        },
+        "word": "Misophist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722977"
+        },
+        "word": "Serious Callers Only",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722978"
+        },
+        "word": "Steely Glint",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722979"
+        },
+        "word": "Different Tan",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72297a"
+        },
+        "word": "Fate Amenable To Change",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72297b"
+        },
+        "word": "Grey Area",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72297c"
+        },
+        "word": "It's Character Forming",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72297d"
+        },
+        "word": "Jaundiced Outlook",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72297e"
+        },
+        "word": "Problem Child",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72297f"
+        },
+        "word": "Reasonable Excuse",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722980"
+        },
+        "word": "Recent Convert",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722981"
+        },
+        "word": "Tactical Grace",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722982"
+        },
+        "word": "Unacceptable Behaviour",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722983"
+        },
+        "word": "Attitude Adjuster",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722984"
+        },
+        "word": "Heavy Messing",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722985"
+        },
+        "word": "Killing Time",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722986"
+        },
+        "word": "Frank Exchange of Views",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722987"
+        },
+        "word": "T3OU 4",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722988"
+        },
+        "word": "T3OU 118",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722989"
+        },
+        "word": "T3OU 736",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72298a"
+        },
+        "word": "Charitable View",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72298b"
+        },
+        "word": "Just Passing Through",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72298c"
+        },
+        "word": "I Blame My Mother",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72298d"
+        },
+        "word": "I Blame Your Mother",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72298e"
+        },
+        "word": "Full Refund",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72298f"
+        },
+        "word": "Quietly Confident",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722990"
+        },
+        "word": "No Fixed Abode",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722991"
+        },
+        "word": "Highpoint",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722992"
+        },
+        "word": "Shoot Them Later",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722993"
+        },
+        "word": "Appeal To Reason",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722994"
+        },
+        "word": "Break Even",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722995"
+        },
+        "word": "Long View",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722996"
+        },
+        "word": "Peace Makes Plenty",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722997"
+        },
+        "word": "Sober Counsel",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722998"
+        },
+        "word": "Within Reason",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722999"
+        },
+        "word": "Frightspear",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72299a"
+        },
+        "word": "Furious Purpose",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72299b"
+        },
+        "word": "Kiss The Blade",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72299c"
+        },
+        "word": "Riptalon",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72299d"
+        },
+        "word": "SacSlicer II",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72299e"
+        },
+        "word": "Wingclipper",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b72299f"
+        },
+        "word": "Xenoclast",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a0"
+        },
+        "word": "Experiencing A Significant Gravitas Shortfall",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a1"
+        },
+        "word": "Lasting Damage",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a2"
+        },
+        "word": "Lasting Damage I",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a3"
+        },
+        "word": "Lasting Damage II",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a4"
+        },
+        "word": "Sanctioned Parts List",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a6"
+        },
+        "word": "Nuisance Value",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a7"
+        },
+        "word": "Resistance Is Character-Forming",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a8"
+        },
+        "word": "Vulgarian",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229a9"
+        },
+        "word": "Someone Else's Problem",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229aa"
+        },
+        "word": "Lacking That Small Match Temperament",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ab"
+        },
+        "word": "Poke It With A Stick",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ac"
+        },
+        "word": "I Said, I've Got A Big Stick",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ad"
+        },
+        "word": "Hand Me The Gun And Ask Me Again",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ae"
+        },
+        "word": "But Who's Counting?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229af"
+        },
+        "word": "Germane Riposte",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b0"
+        },
+        "word": "We Haven't Met But You're A Great Fan Of Mine",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b1"
+        },
+        "word": "All The Same, I Saw It First",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b2"
+        },
+        "word": "Ravished By The Sheer Implausibility Of That Last Statement",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b3"
+        },
+        "word": "Zero Credibility",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b4"
+        },
+        "word": "Charming But Irrational",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b5"
+        },
+        "word": "Demented But Determined",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b6"
+        },
+        "word": "You May Not Be The Coolest Person Here",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b7"
+        },
+        "word": "Lucid Nonsense",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b8"
+        },
+        "word": "Awkward Customer",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229b9"
+        },
+        "word": "Thorough But... Unreliable",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ba"
+        },
+        "word": "Advanced Case Of Chronic Patheticism",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229bb"
+        },
+        "word": "Another Fine Product From The Nonsense Factory",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229bc"
+        },
+        "word": "Conventional Wisdom",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229bd"
+        },
+        "word": "In One Ear",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229be"
+        },
+        "word": "Fine Till You Came Along",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229bf"
+        },
+        "word": "I Blame The Parents",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c0"
+        },
+        "word": "Inappropriate Response",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c1"
+        },
+        "word": "A Momentary Lapse Of Sanity",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c2"
+        },
+        "word": "Lapsed Pacifist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c3"
+        },
+        "word": "Reformed Nice Guy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c4"
+        },
+        "word": "Pride Comes Before A Fall",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c5"
+        },
+        "word": "Injury Time",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c6"
+        },
+        "word": "Now Look What You've Made Me Do",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c7"
+        },
+        "word": "Kiss This Then",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c8"
+        },
+        "word": "Winter Storm",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229c9"
+        },
+        "word": "Piety",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ca"
+        },
+        "word": "Soulhaven",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229cb"
+        },
+        "word": "Seed Drill",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229cc"
+        },
+        "word": "Don't Try This At Home",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229cd"
+        },
+        "word": "Xenoglossicist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ce"
+        },
+        "word": "Subtle Shift In Emphasis",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d0"
+        },
+        "word": "It's My Party And I'll Sing If I Want To",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d1"
+        },
+        "word": "Lightly Seared On The Reality Grill",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d2"
+        },
+        "word": "Pure Big Mad Boat Man",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d3"
+        },
+        "word": "Qualifier",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d4"
+        },
+        "word": "Transient Atmospheric Phenomenon",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d5"
+        },
+        "word": "You Naughty Monsters",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d6"
+        },
+        "word": "Eight Rounds Rapid",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d7"
+        },
+        "word": "You'll Clean That Up Before You Leave",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d8"
+        },
+        "word": "Now We Try It My Way",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229d9"
+        },
+        "word": "Liveware Problem",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229da"
+        },
+        "word": "\u201cNow, Turning to Reason, & its Just Sweetness\u201d",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229db"
+        },
+        "word": "\u201cOn First Seeing Jhiriit\u201d",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229dc"
+        },
+        "word": "\u201cFasilyce, Upon Waking\u201d",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229dd"
+        },
+        "word": "Inspiral, Coalescence, Ringdown",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229de"
+        },
+        "word": "Hence the Fortress",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229df"
+        },
+        "word": "Hundredth Idiot, The",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e0"
+        },
+        "word": "Dressed Up To Party",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e1"
+        },
+        "word": "Pelagian",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e2"
+        },
+        "word": "Sense Amid Madness, Wit Amidst Folly",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e3"
+        },
+        "word": "Total Internal Reflection",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e4"
+        },
+        "word": "Armchair Traveller",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e5"
+        },
+        "word": "Bodhisattva, OAQS",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e6"
+        },
+        "word": "Falling Outside the Normal Moral Constraints",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e7"
+        },
+        "word": "No One Knows What The Dead Think",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e8"
+        },
+        "word": "Hylozoist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229e9"
+        },
+        "word": "The Usual But Etymologically Unsatisfactory",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ea"
+        },
+        "word": "Beastly To The Animals",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229eb"
+        },
+        "word": "Fixed Grin",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ec"
+        },
+        "word": "Hidden Income",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ed"
+        },
+        "word": "Scar Glamour",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ee"
+        },
+        "word": "Labtebricolephile",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ef"
+        },
+        "word": "Me, I'm Counting",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f0"
+        },
+        "word": "Messenger Of Truth",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f1"
+        },
+        "word": "Fractious Person",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f2"
+        },
+        "word": "Rubric Of Ruin",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f3"
+        },
+        "word": "Abundance Of Onslaught",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f4"
+        },
+        "word": "Vision Of Hope Surpassed",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f5"
+        },
+        "word": "Joiler Veppers",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f6"
+        },
+        "word": "Ucalegon",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f7"
+        },
+        "word": "8401.00 Partial Photic Boundary",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f8"
+        },
+        "word": "A Fine Disregard For Awkward Facts",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229f9"
+        },
+        "word": "Contents May Differ",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229fa"
+        },
+        "word": "Empiricist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229fb"
+        },
+        "word": "Just The Washing Instruction Chip In Life's Rich Tapestry",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229fc"
+        },
+        "word": "Kakistocrat",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229fd"
+        },
+        "word": "Teething Problems",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229fe"
+        },
+        "word": "Unreliable Witness",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b7229ff"
+        },
+        "word": "Passing By And Thought I'd Drop In",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a00"
+        },
+        "word": "Pressure Drop",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a01"
+        },
+        "word": "You Call This Clean?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a02"
+        },
+        "word": "Displacement Activity",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a03"
+        },
+        "word": "Warm, Considering",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a04"
+        },
+        "word": "Anything Legal Considered",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a05"
+        },
+        "word": "Beats Working",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a06"
+        },
+        "word": "Headcrash",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a07"
+        },
+        "word": "Questionable Ethics",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a08"
+        },
+        "word": "Xenocrat",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a09"
+        },
+        "word": "Caconym",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a0a"
+        },
+        "word": "New Toy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a0b"
+        },
+        "word": "Rapid Random Response Unit",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a0c"
+        },
+        "word": "Learned Response",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a0d"
+        },
+        "word": "Outstanding Contribution To The Historical Process",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a0e"
+        },
+        "word": "Refreshingly Unconcerned With The Vulgar Exigencies Of Veracity",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a0f"
+        },
+        "word": "Value Judgement",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a10"
+        },
+        "word": "Zoologist",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a11"
+        },
+        "word": "Mistake Not\u2026",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a12"
+        },
+        "word": "Smile Tolerantly",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a13"
+        },
+        "word": "5*Gelish-Oplule",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a14"
+        },
+        "word": "7*Uagren",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a15"
+        },
+        "word": "8*Churkun",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a16"
+        },
+        "word": "Iberre",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a17"
+        },
+        "word": "CH2OH.(CHOH)4.CHO",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a18"
+        },
+        "word": "Abalule-Sheliz",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a19"
+        },
+        "word": "Gellemtyan-Asool-Anafawaya",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a1a"
+        },
+        "word": "Laskuil-Hliz",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a1b"
+        },
+        "word": "Quiatrea-Anang",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a1c"
+        },
+        "word": "Fulanya-Guang",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a1d"
+        },
+        "word": "Melancholia Enshrines All Triumph",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a1e"
+        },
+        "word": "Oceanic Dissonance",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a1f"
+        },
+        "word": "Exaltation-Parsimony III",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a20"
+        },
+        "word": "Stood Far Back When The Gravitas Was Handed Out",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a21"
+        },
+        "word": "Gravitas, What Gravitas?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a22"
+        },
+        "word": "Gravitas... Gravitas... No, Don't Help Me, I'll Get It In A Moment...",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a23"
+        },
+        "word": "Gravitas Free Zone",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a24"
+        },
+        "word": "Low Gravitas Warning Signal",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a25"
+        },
+        "word": "Absolutely No You-Know-What",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Culture Books"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a26"
+        },
+        "word": "I don't need a tie for gravitas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a27"
+        },
+        "word": "Accessible Community Transport",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a28"
+        },
+        "word": "Irresistible Effect",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a29"
+        },
+        "word": "Unintelligible At Any Speed",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a2a"
+        },
+        "word": "Starship landing nominal!",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a2b"
+        },
+        "word": "Large Free Weights Area",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a2c"
+        },
+        "word": "Poverty Alleviation Slow Train",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a2d"
+        },
+        "word": "So Amaze Much Wow!",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a2e"
+        },
+        "word": "Ever Given",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a2f"
+        },
+        "word": "A Bit Slow On The Uptake",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "VFP"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a30"
+        },
+        "word": "Repeat after me",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "Mostly ROU \u2b07\ufe0f"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a31"
+        },
+        "word": "Yikes",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a32"
+        },
+        "word": "Disappointing",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a33"
+        },
+        "word": "Friendly reminder",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a34"
+        },
+        "word": "Casual reminder",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a35"
+        },
+        "word": "This isn't a good look",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a36"
+        },
+        "word": "This ain't it chief",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a37"
+        },
+        "word": "Let that sink in",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a38"
+        },
+        "word": "Wow this blew up",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a39"
+        },
+        "word": "Buckle up it's time for a thread",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a3a"
+        },
+        "word": "Normalize this",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a3b"
+        },
+        "word": "Say it louder for the people in the back",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a3c"
+        },
+        "word": "Rethink this",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a3d"
+        },
+        "word": "Fun fact",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a3e"
+        },
+        "word": "Period. Full Stop.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a3f"
+        },
+        "word": "That's it. That's the tweet.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a40"
+        },
+        "word": "Attention:",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a41"
+        },
+        "word": "Just To Be Clear",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a42"
+        },
+        "word": "Stop xxx Challenge",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a43"
+        },
+        "word": "We Need To Talk About",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a44"
+        },
+        "word": "Undeniable Outrage Asset",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a45"
+        },
+        "word": "Recollections May Vary",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a46"
+        },
+        "word": "The Relationship Is Space",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a47"
+        },
+        "word": "Catcher of the Enemy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a48"
+        },
+        "word": "Don\u2019t Think",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a49"
+        },
+        "word": "Bite! Biter of His Foe",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a4a"
+        },
+        "word": "Loud Bark",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a4b"
+        },
+        "word": "Expeller of Evil",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a4c"
+        },
+        "word": "Gravitas Gardens",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a4d"
+        },
+        "word": "Protester Removal Technician",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a4e"
+        },
+        "word": "Cautious But Irreversible",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a4f"
+        },
+        "word": "Social Lubricant",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a50"
+        },
+        "word": "Outside Juice",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a51"
+        },
+        "word": "Medical Grade Freedom",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a52"
+        },
+        "word": "I'm Not On Mute Anymore",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a53"
+        },
+        "word": "Read The Standing Order",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a54"
+        },
+        "word": "Read It And Understand It",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a55"
+        },
+        "word": "You Have No Authority Here",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a56"
+        },
+        "word": "Ethical Compliance Designer",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a57"
+        },
+        "word": "Far Future Communist Space Opera",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a58"
+        },
+        "word": "Comprised Entirely Of People Like Themselves",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a59"
+        },
+        "word": "Addicted to the Sadness",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a5a"
+        },
+        "word": "Automation Error",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a5b"
+        },
+        "word": "Can I Get A Ruling",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a5c"
+        },
+        "word": "Typical Noise Levels",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a5d"
+        },
+        "word": "Threshold of Pain",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a5e"
+        },
+        "word": "Threshold of Hearing",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a5f"
+        },
+        "word": "DevOps, it's culture not cloud.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a60"
+        },
+        "word": "Agile, it's culture not project methodology.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a61"
+        },
+        "word": "Open Source, it's culture not sharing code.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a62"
+        },
+        "word": "Cloud Native, it's culture not containers.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a63"
+        },
+        "word": "Ok, define culture. No hand waving allowed.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a64"
+        },
+        "word": "I Am Become Gargantuan; Lost All Control (Absconded)",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a65"
+        },
+        "word": "Highly Passive State of Preparation",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "(D)ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a66"
+        },
+        "word": "Peaceful Transition Of Power",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a67"
+        },
+        "word": "I DO NOT CARE IF THEY SENT YOU A COUPON",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a68"
+        },
+        "word": "Quality of Anti-Gravitas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a69"
+        },
+        "word": "The Possibility Of More Time Here",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a6a"
+        },
+        "word": "Factorcraft",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a6b"
+        },
+        "word": "Infusion Adventure",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a6c"
+        },
+        "word": "Empower Movement Toward Relief",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a6d"
+        },
+        "word": "Together For Rare",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "remark": null,
+        "source": "Twitter @cultureshipname"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a6e"
+        },
+        "word": "Got All The Data We Needed",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a6f"
+        },
+        "word": "Inexhaustible Lasers?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a70"
+        },
+        "word": "Holiday Software Release",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a71"
+        },
+        "word": "Happy Little Killer Spaceship",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a72"
+        },
+        "word": "Desperately seeking Gravitas!Gravitas!Gravitas!",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a73"
+        },
+        "word": "Long Distance Relationship",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a74"
+        },
+        "word": "Probable Scrap",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a75"
+        },
+        "word": "Big Space...",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a76"
+        },
+        "word": "Smart Living Solutions",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a77"
+        },
+        "word": "Never Knowingly Undersold",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a78"
+        },
+        "word": "Unexpected pressure rise in the turbomachinery gas generator",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a79"
+        },
+        "word": "The Quantum Butterfly Noneffect",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a7a"
+        },
+        "word": "Unconscious Bias Training",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a7b"
+        },
+        "word": "Climate Change Apprentice",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a7c"
+        },
+        "word": "Go With The Gut Not The Science",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a7d"
+        },
+        "word": "Hocus Potus Climate Wizard",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a7e"
+        },
+        "word": "It's Getting Colder And That's My Real Hair",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a7f"
+        },
+        "word": "CULTURE IS THE MOST POWERFUL FORCE IN HUMANITY UNDER GOD",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a80"
+        },
+        "word": "Coordinated Inauthentic Behaviour",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a81"
+        },
+        "word": "In A Specific And Limited Way",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a82"
+        },
+        "word": "Stop Improving Robots",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Restoria"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a83"
+        },
+        "word": "Reasonable Worst Case Scenario",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a84"
+        },
+        "word": "Adaptation No Longer Happening",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a85"
+        },
+        "word": "Stay Composed And Do Not Panic Because Panic Is Fatal",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a86"
+        },
+        "word": "Not All Things Are Created Equal",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a87"
+        },
+        "word": "Design That Lasts A Lifetime",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a88"
+        },
+        "word": "Heals",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a89"
+        },
+        "word": "Fuck the Algorithm",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a8a"
+        },
+        "word": "Up All Night Talking",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a8b"
+        },
+        "word": "Where's Your Ambition?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "VFP"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a8c"
+        },
+        "word": "Choose From The Following Options",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a8d"
+        },
+        "word": "Acceptable Causality Rate",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a8e"
+        },
+        "word": "Please Believe These Days Will Pass",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a8f"
+        },
+        "word": "This is Some Good and Necessary Trouble",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a90"
+        },
+        "word": "Don't Talk To Me Or My GCUs Ever Again",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a91"
+        },
+        "word": "Was It Something I Said?",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a92"
+        },
+        "word": "Great Moments Are The Work Of Many",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a93"
+        },
+        "word": "As Per My Last E-Mail",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "VFP"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a94"
+        },
+        "word": "We May Have More Differences of Opinion Than I Anticipated",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a95"
+        },
+        "word": "Please Scream Inside Your Heart",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a96"
+        },
+        "word": "Shovel-Ready",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "Superlifter"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a97"
+        },
+        "word": "A Little Bit Of Space Will Bring Us Together",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a98"
+        },
+        "word": "Just A Nudge To Remind You",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a99"
+        },
+        "word": "Against The Imperialism Of Instrumental Reason",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a9a"
+        },
+        "word": "Exceedingly Tedious and Slightly Unhinged",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a9b"
+        },
+        "word": "Investment Quality Storage Pays For Itself",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a9c"
+        },
+        "word": "Subject To Covenant",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a9d"
+        },
+        "word": "Farewell, Old Friend",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a9e"
+        },
+        "word": "The Weather Channel",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722a9f"
+        },
+        "word": "Breaking News",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "VFP"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa0"
+        },
+        "word": "Conditions To Deteriorate Soon",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa1"
+        },
+        "word": "Destroy Capitalism",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa2"
+        },
+        "word": "The Weapon Of Choice - Systemic Racism And Police Racism",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa3"
+        },
+        "word": "Identify The Victim Classes",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa4"
+        },
+        "word": "Organize The Victim Classes",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa5"
+        },
+        "word": "Engage In International Solidarity With The Global Movement",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa6"
+        },
+        "word": "Attack And Dethrone God",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa7"
+        },
+        "word": "Psychopath Class",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa8"
+        },
+        "word": "The Illusion Of Democracy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aa9"
+        },
+        "word": "Please Do Not Have An Emergency At This Location",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aaa"
+        },
+        "word": "Cancel Cancel Culture!",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aab"
+        },
+        "word": "Stay Alert",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aac"
+        },
+        "word": "X \u00c6 A-12",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aad"
+        },
+        "word": "Invisible Mugger",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aae"
+        },
+        "word": "Disinfectant Injection",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aaf"
+        },
+        "word": "The politics of easing lockdown",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab0"
+        },
+        "word": "True Scale Of Excess Mortality, The",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab1"
+        },
+        "word": "Future Nostalgia Experience",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab2"
+        },
+        "word": "Moderate Traffice Density",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "LSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab3"
+        },
+        "word": "Digital Parliament",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab4"
+        },
+        "word": "A Modicum of Gravitas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab5"
+        },
+        "word": "Unhelpful Coping Strategy",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab6"
+        },
+        "word": "Flatten The Curve",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab7"
+        },
+        "word": "Elevated Scrutiny",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab8"
+        },
+        "word": "Undermining Gravitas",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ab9"
+        },
+        "word": "The Mortifying Ordeal of Being Known",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "LCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aba"
+        },
+        "word": "Almost Anything Is A Good Culture Ship Name",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "LCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722abb"
+        },
+        "word": "A Hostess Is Jugded By Her Salads It's Said",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722abc"
+        },
+        "word": "Milk Makes Good Vegetables Better",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722abd"
+        },
+        "word": "Dessert Supreme From Milk And Cream",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722abe"
+        },
+        "word": "Operator of Last Resort",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722abf"
+        },
+        "word": "Excess Death Contingency Planning",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac0"
+        },
+        "word": "Excess Death Contingency Execution",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac1"
+        },
+        "word": "A Virulent Surplus of Hubris",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac2"
+        },
+        "word": "Can't Abide The Spacey Sex",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac3"
+        },
+        "word": "#RandomActsOfKindnessDay",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac4"
+        },
+        "word": "The Sheer Fucking Hubris",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac5"
+        },
+        "word": "Our Parts Warranty Is Better Than New",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac6"
+        },
+        "word": "As Close to Reassurance and Gravitas as We Get",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac7"
+        },
+        "word": "Common Purpose Tendencies",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac8"
+        },
+        "word": "Less Gravitas Than Burgon",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ac9"
+        },
+        "word": "Large Boulder the Size of a Small Boulder",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722aca"
+        },
+        "word": "Chairs are underappreciated",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722acb"
+        },
+        "word": "Culture does not build walls, it builds bridges.",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722acc"
+        },
+        "word": "The Persistent Idea Of A Bold New Beginning",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722acd"
+        },
+        "word": "8 Angry Doughnut Feelings",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ace"
+        },
+        "word": "Mini Cactus Cake Fight",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722acf"
+        },
+        "word": "Happy To Groom Any Animals You Want",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "VFP"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad0"
+        },
+        "word": "There is going to be some friction",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad1"
+        },
+        "word": "Great Guilty Pleasure",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad2"
+        },
+        "word": "No Scrap Value",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "(D)ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad3"
+        },
+        "word": "Articles Of Impeachment",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad4"
+        },
+        "word": "Big-Player Politics in a Small Format",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "LOU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad5"
+        },
+        "word": "How Strong Is Border",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad6"
+        },
+        "word": "How Liberal Is Freedom",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GSV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad7"
+        },
+        "word": "How Brave Is Fear",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad8"
+        },
+        "word": "No Malarkey!",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "(D)ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ad9"
+        },
+        "word": "This Accessory May Not Be Supported",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "LSV, Eccentric"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722ada"
+        },
+        "word": "Selling It Successfully To Some Dumb Marks",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GCV"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722adb"
+        },
+        "word": "It\u2019s Too Late For Self-Indulgence And Lack Of Discipline",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722adc"
+        },
+        "word": "Heaven Is A Place Where Nothing Ever Happens",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "ROU"
+    },
+    {
+        "_id": {
+            "$oid": "63234e15c0ee0eac8b722add"
+        },
+        "word": "Name Not Declassified",
+        "part of speech": "name",
+        "language": "English",
+        "topic": [
+            "Culture Ship Name"
+        ],
+        "source": "Twitter @cultureshipname",
+        "remark": "GOU"
+    }
+]

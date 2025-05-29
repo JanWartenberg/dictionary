@@ -1,0 +1,111 @@
+Matik
+Quine
+Gear
+Drillbit
+Nozzle
+Jet
+Or
+Okoid
+Bolt
+Sterling
+Cole
+Brobot
+Ici
+Etkoid
+Plexi
+Led
+Spanner
+Hammer
+Odaq
+Esih
+Droid
+
+Marius
+Sulla
+Radius
+Primus
+Helena
+Damon
+Coppelia
+Talus
+Talos
+Golem
+Olimpia
+Tik-Tok
+Hadaly
+Robbie
+Speedy
+Cutie
+L-76
+Z-1
+Z-2
+Z-3
+Emma-2
+Brackenridge
+Tony
+Lenny
+Ez-27
+Norby
+SHROUD
+Jenkins
+Mech Eagles
+Setaur
+Aniel
+Terminus
+Marvin
+K-9
+Elio
+Manders
+Solo
+Sheen
+Spofforth
+Yod
+Caliban
+Dorfl
+Clunk
+Otis
+Moravecs
+Bishop
+Omnidroid
+Mimiron
+
+
+Astrochicken
+Gray goo
+Cyborg
+Robert
+Replicant
+Tron
+Actuator
+Aerobot
+Arduino
+Automaton
+Biomimetic
+Bionics
+Emergence
+Gynoid
+Hexapod
+Humanoid
+Dwarvoid
+Hydraulics
+Kalman
+Kinematics
+Manipulator
+Servo
+Synchro
+Unimate
+
+
+
+Mechanized Data Destruction Android
+Self-Sufficient Expedition Drone
+Exceptional Science Bot
+Primitive Life Simulation Golem
+Robotic Planet Survey Juggernaut
+Sensitive Expedition Technician
+High-Powered Escort Automaton
+Cybernetic Transportation Drone
+Solar Network Defense Droid
+General Air Defense Device
+Extra-Terrestrial Riot Control Drone
+Unified Data Destruction Droid

@@ -1,0 +1,69 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+ENV/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Coverage and test reports
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak 

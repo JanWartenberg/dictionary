@@ -1,0 +1,66 @@
+{{Siehe auch|[[hallo]], [[halló]]}}
+== Hallo ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{n}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=n
+|Nominativ Singular=Hallo
+|Nominativ Plural=Hallos
+|Genitiv Singular=Hallos
+|Genitiv Plural=Hallos
+|Dativ Singular=Hallo
+|Dativ Plural=Hallos
+|Akkusativ Singular=Hallo
+|Akkusativ Plural=Hallos
+}}
+
+{{Worttrennung}}
+:Hal·lo, {{Pl.}} Hal·los
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|haˈloː}}
+:{{Hörbeispiele}} {{Audio|De-Hallo.ogg}}
+:{{Reime}} {{Reim|oː|Deutsch}}
+
+{{Bedeutungen}}
+:[1] lautes Rufen; fröhliches, lautes Durcheinander
+
+{{Herkunft}}
+:Substantivierung des Grußworts [[hallo]]
+
+{{Synonyme}}
+:[1] [[Gejohle]]
+
+{{Beispiele}}
+:[1] Als er die Treppe hinaufkam, wurde er mit großem ''Hallo'' empfangen.
+:[1] „Da gab es keine Möglichkeit, mich von vielen Leuten (…) zu verabschieden. Deswegen wird es jetzt ein Tag des großen ''Hallos'' und des offiziellen Abschieds werden.“<ref>Marc Heinrich (Interviewer): [http://www.faz.net/aktuell/rhein-main/sport/eintracht-frankfurt/im-gespraech-armin-reutershahn-der-tag-des-hallos-und-des-abschieds-1843358.html ''Im Gespräch: Armin Reutershahn. „Der Tag des Hallos und des Abschieds“''] auf www.faz.net vom 15. August 2009</ref>
+:[1] „Es macht puff und die Kühe fallen um und die kleinen Häuser und Bäume. Da ist dann immer ein großes ''Hallo'' und viel Spaß.“<ref>{{Wikipedia|Evelyn Hamann}} als Verkäuferin in LORIOT VI (auch bekannt unter dem Namen „{{Wikipedia|Weihnachten bei Hoppenstedts}}“)</ref>
+
+{{Charakteristische Wortkombinationen}}
+:[1] großes ''Hallo''
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|Ü-links=
+*{{bg}}: [1] {{Üt|bg|здравей|}}
+*{{en}}: [1] {{Ü|en|hallo}}
+|Ü-rechts=
+*{{fr}}: [1] {{Ü|fr|Allo}} {{m}}, {{Ü|fr|Hello}} {{m}}
+*{{cs}}: [1] {{Ü|cs|haló}} {{n}}
+}}
+
+{{Referenzen}}
+:[1] {{Ref-Duden|Hallo}}
+:[1] {{Ref-DWDS|Hallo}}
+:[1] {{Ref-UniLeipzig|Hallo}}
+
+
+== Hallo ({{Sprache|Englisch}}) ==
+=== {{Wortart|Substantiv|Englisch}} ===
+
+{{Bedeutungen}}
+:[1] some other word meaning
+
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Hall]], [[halle]], [[Halle]], [[Halo]], [[Holle]]|Anagramme=[[holla]]}}
