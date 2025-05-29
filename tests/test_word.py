@@ -46,7 +46,7 @@ class TestWord(unittest.TestCase):
         """Remove JSON files from temporary directory"""
         if not os.path.exists(self.tmp_path):
             return
-            
+
         for file in os.listdir(self.tmp_path):
             if file.endswith(".json") and not file.startswith("word_example"):
                 file_path = os.path.join(self.tmp_path, file)

@@ -6,6 +6,7 @@ https://stackoverflow.com/questions/16533153/parse-xml-dump-of-a-mediawiki-wiki
 https://stackoverflow.com/a/55147982
 
 """
+
 from lxml import etree
 
 
@@ -140,7 +141,7 @@ class MediaWikiTitleExtractor(MediaWikiPageExtractor):
             if not res:
                 # empty page
                 continue
-            #TODO
+            # TODO
             #  check if in category -> cant do that.. can only parse for template
             if self.cat_filter:
                 if self.cat_filter not in res[0]:
@@ -151,7 +152,6 @@ class MediaWikiTitleExtractor(MediaWikiPageExtractor):
 
 
 if __name__ == "__main__":
-
     # all page contents
     # with open(dump_file_path, "rb") as in_xml:
     #    for record in MediaWikiPageExtractor(in_xml):

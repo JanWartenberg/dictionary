@@ -27,14 +27,12 @@ class TestCrawler(unittest.TestCase):
         self.assertTrue(len(resp_dict[RESP_QUERY][CAT_MEMBERS]) == 20)
 
     def test_get_pages_in_cat(self):
-
         cat = "Kategorie:Präposition (Deutsch)"
         res = self.crawler.get_pages_in_cat(cat)
 
         self.assertTrue(len(res) > 100)
 
     def test_get_all_subcats(self):
-
         cat = "Kategorie:Präposition"
         res = self.crawler.get_all_subcats(cat)
 

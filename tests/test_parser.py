@@ -44,5 +44,9 @@ class TestDeWiktParser(unittest.TestCase):
         """Test that the parser correctly extracts the title"""
         parser = DeWiktParser(self.wiki_content)
         word = parser.parse()
-        self.assertEqual(word.word, "Hallo", "Parser should extract 'Hallo' as the title")
-        self.assertEqual(word.language, "German", "Parser should extract 'German' as the language")
+        self.assertEqual(
+            word.word, "Hallo", "Parser should extract 'Hallo' as the title"
+        )
+        self.assertEqual(
+            word.language, "German", "Parser should extract 'German' as the language"
+        )

@@ -2,10 +2,20 @@
 Module to collect parsers,
 which parse some input into Word() class.
 """
+
 import re
 
 from word import Word
-from word import LANGUAGE, PART_OF_SPEECH, TOPICS, WORD, HYPHENATION, SOURCE, DERIVED_LANGUAGE, REMARK
+from word import (
+    LANGUAGE,
+    PART_OF_SPEECH,
+    TOPICS,
+    WORD,
+    HYPHENATION,
+    SOURCE,
+    DERIVED_LANGUAGE,
+    REMARK,
+)
 
 # Mapping from German Wiktionary terms to MongoDB field names
 DE_WIKT_TO_MONGO = {
@@ -18,7 +28,6 @@ DE_WIKT_TO_MONGO = {
     "Quelle": SOURCE,
     "Herkunftssprache": DERIVED_LANGUAGE,
     "Anmerkung": REMARK,
-    
     # Parts of speech mappings
     "Substantiv": "noun",
     "Eigenname": "name",
@@ -31,13 +40,13 @@ DE_WIKT_TO_MONGO = {
     "Interjektion": "interjection",
     "Numerale": "numeral",
     "Artikel": "article",
-    
     # Language mappings
     "Deutsch": "German",
     "Englisch": "English",
     "Altgriechisch": "Ancient Greek",
     "Latein": "Latin",
 }
+
 
 class DeWiktParser(object):
     """Parser for German Wiktionary entries"""
@@ -54,42 +63,46 @@ class DeWiktParser(object):
         # Pattern to match header sections
         # == title ({{Sprache|lang}}) ==
         header_pattern = r"==\s*([^=\n(]+?)\s*\({{Sprache\|([^}]+)}}\)\s*=="
-        
+
         # Split content into sections by headers
         sections = re.split(header_pattern, self.content)
-        
+
         # First element is content before any headers
         pre_header = sections[0]
-        
+
         # Process remaining sections
         parsed_sections = []
-        for i in range(1, len(sections), 3):  # Step by 3 because we have title, lang, and content groups
+        for i in range(
+            1, len(sections), 3
+        ):  # Step by 3 because we have title, lang, and content groups
             if i + 2 < len(sections):
                 title = sections[i].strip()
-                language = DE_WIKT_TO_MONGO.get(sections[i + 1].strip(), sections[i + 1].strip())  # Map language if possible
+                language = DE_WIKT_TO_MONGO.get(
+                    sections[i + 1].strip(), sections[i + 1].strip()
+                )  # Map language if possible
                 content = sections[i + 2].strip()
                 parsed_sections.append((title, language, content))
-        
+
         return pre_header, parsed_sections
 
     def parse(self):
         """Parse the wikitext content into a Word object."""
         pre_header, sections = self._get_header_sections()
-        
+
         # Initialize word dictionary
         word_dict = {}
-        
+
         # If we have any sections, use the first one as the main entry
         if sections:
             title, language, content = sections[0]
             word_dict[WORD] = title
             word_dict[LANGUAGE] = language
-            
+
             # TODO: Extract additional information from content:
             # - Part of speech
             # - Hyphenation
             # - Topics
-            
+
         return Word(word_dict)
 
 
@@ -170,6 +183,7 @@ class RobotParser(TextParser):
 
 class CultureShipParser(TextParser):
     """"""
+
     def __init__(self, filepath=r"name_examples\culture_shipnames.txt"):
         super().__init__(filepath=filepath)
         self.def_dict = {

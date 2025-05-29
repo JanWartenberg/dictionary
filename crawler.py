@@ -1,9 +1,10 @@
-""" This module contains methods to help with crawling data from Wikimedia
+"""This module contains methods to help with crawling data from Wikimedia
 projects. Directly via the HTTP API. So this is not feasible for a whole
-project, but only for single pages or categories. 
+project, but only for single pages or categories.
 
 I'll leave this here as a helper tool,
 although for the overall goal it is not relevant."""
+
 import json
 import requests
 import xml.etree.ElementTree as ET

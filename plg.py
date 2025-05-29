@@ -1,6 +1,6 @@
-""" main module for crawler/dictionary lib
+"""main module for crawler/dictionary lib
 -> probably rather playground since it could be a sort of generic library
-   and not a single script/programm """
+   and not a single script/programm"""
 
 import datetime
 from pathlib import Path

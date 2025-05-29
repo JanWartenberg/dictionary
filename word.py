@@ -1,9 +1,10 @@
-""" module to cover the class Word
+"""module to cover the class Word
  (at least to add documentation to the word_template.json)
 
 Note: all nomenclature here is English.
 That is to be consistent with MongoDB.
 """
+
 import os
 from bson import json_util
 from json.decoder import JSONDecodeError
@@ -98,21 +99,20 @@ class Word(object):
             new_data.get(LANGUAGE) not in ALLOWED_LANGS
             and new_data.get(LANGUAGE) is not None
         ):
-            raise WordError(f"Not in allowed languages: " f"{new_data.get(LANGUAGE)}")
+            raise WordError(f"Not in allowed languages: {new_data.get(LANGUAGE)}")
         if (
             new_data.get(DERIVED_LANGUAGE) not in ALLOWED_LANGS
             and new_data.get(DERIVED_LANGUAGE) is not None
         ):
             raise WordError(
-                f"Not in allowed derived languages: "
-                f"{new_data.get(DERIVED_LANGUAGE)}"
+                f"Not in allowed derived languages: {new_data.get(DERIVED_LANGUAGE)}"
             )
         if (
             new_data.get(PART_OF_SPEECH) not in ALLOWED_POS
             and new_data.get(PART_OF_SPEECH) is not None
         ):
             raise WordError(
-                f"Not in allowed part of speeches: " f"{new_data.get(PART_OF_SPEECH)}"
+                f"Not in allowed part of speeches: {new_data.get(PART_OF_SPEECH)}"
             )
         self._data = new_data
 
