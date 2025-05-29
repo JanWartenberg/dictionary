@@ -61,31 +61,6 @@ class Crawler(object):
             ret = ""
         return ret
 
-    # def get_page_content_special(self, pagename):
-    #     """ TODO probably delete this, not working right now """
-    #     url = f'https://{self.lang}.{self.proj}' \
-    #           f'.org/wiki/Special:Export/{pagename}'
-    #     resp = requests.get(url=url)
-    #     cont = ''
-    #     # print(resp.status_code)
-    #     # tree = ET.parse('country_data.xml')
-    #     # root = tree.getroot()
-    #     if resp.status_code == 200:
-    #         root = ET.fromstring(resp.text)
-    #         print(root.tag)
-    #         print(root.attrib)
-    #
-    #         parent_map = {c: p for p in root.iter() for c in p}
-    #
-    #         # search for mediawiki.page.revision.text
-    #         # for child in root.findall('mediawiki'):
-    #         for child in root.iter():
-    #             if child.tag == 'text':
-    #                 # print(child.attrib)
-    #                 # print(child.text)
-    #                 cont = child.text
-    #     return cont
-
     def _get_contents_parse_api(self, lemma):
         """
         https://www.mediawiki.org/wiki/API:Get_the_contents_of_a_page
@@ -231,33 +206,3 @@ class Crawler(object):
             res.extend(self.get_pages_in_cat_with_sub(subcat))
         res.extend(self.get_pages_in_cat(cat))
         return res
-
-
-def get_bird_translations():
-    import re
-    inputfile = r"C:\Users\janwa\Dropbox\wichtiges\Code\dictionary\name_examples\Voegel_Svensson.txt"
-    outputfile = r"D:\Docs\tmp\Svensson_output.txt"
-    with open(inputfile, "r", encoding="utf-8") as bird_names:
-        birds_de = bird_names.read().splitlines()
-    cr = Crawler(lang="de", proj="wikipedia")
-
-    for bird in birds_de:
-        # get en interwiki link
-        interlang_links = cr.get_interwiki_links(bird)
-        english = None
-        for c in interlang_links:
-            if c["lang"] == "en":
-                english = c["title"]
-                break
-
-        # get de wikipedia page
-        cont = cr.get_page_content(bird)
-        # get Taxon Wissenschaftlich
-        res = re.findall("\| *Taxon_WissName *= *(.*?)$", cont, re.MULTILINE)
-        try:
-            latin = res[0]
-        except IndexError:
-            latin = None
-        # print(f"{bird}, {english}, {latin}")
-        with open(outputfile, "a", encoding="utf-8") as output:
-            output.write(f"{bird}, {english}, {latin}\n")
