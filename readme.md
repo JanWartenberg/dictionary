@@ -2,7 +2,8 @@
 
 ⚠️ **Work in Progress** ⚠️
 
-This project is in early development stages. While functional, it's actively evolving and may undergo significant changes. Feel free to explore and provide feedback, but please note that APIs and functionality may change without notice.
+This project is in early development stages.
+It might be functional, but I guarantee nothing.
 
 ## Overview
 
