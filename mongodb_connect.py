@@ -6,7 +6,7 @@ from bson import json_util
 from pymongo.errors import DuplicateKeyError
 from pymongo.results import _WriteResult
 
-from word import Word, WORD
+from word import Word, WORD, LANGUAGE
 
 MONGO_HOST = "127.0.0.1"
 MONGO_PORT = 27017
@@ -21,7 +21,11 @@ class MongoHandler(object):
         # print(db.list_collection_names())
 
         self.word_coll = db.get_collection(COL_NAME)
-        self.word_coll.create_index([(WORD, pymongo.ASCENDING)], unique=True)
+        # Create compound unique index on word + language
+        self.word_coll.create_index(
+            [(WORD, pymongo.ASCENDING), (LANGUAGE, pymongo.ASCENDING)],
+            unique=True
+        )
 
     def close(self):
         self.mc.close()
@@ -30,8 +34,8 @@ class MongoHandler(object):
         try:
             return self.word_coll.insert_one(word)
         except DuplicateKeyError:
-            # pymongo.errors.DuplicateKeyError   is thrown for duplicate Word.word
-            # result.acknowledged == False, result.inserted_id == Nnoe  -> if handling is needed for duplicate entry
+            # DuplicateKeyError is thrown for duplicate word+language combination
+            print(f"Skipping duplicate word: {word.get(WORD)} ({word.get(LANGUAGE)})")
             return PseudoResult(False)
 
     def find_recent_words(self, limit=10):
@@ -75,6 +79,32 @@ class MongoHandler(object):
         data = list(self.word_coll.find())
         with open(json_out_path, "w", encoding="utf-8") as f:
             f.write(json_util.dumps(data, indent=4))
+
+    def get_db_stats(self):
+        """Get database statistics including size."""
+        return self.mc.get_database(DB_NAME).command("dbStats")
+
+    def print_db_stats(self):
+        """Print database statistics in a readable format."""
+        stats = self.get_db_stats()
+        print(f"Database: {DB_NAME}")
+        print(f"Collections: {stats['collections']}")
+        print(f"Documents: {stats['objects']}")
+        print(f"Total size: {stats['dataSize'] / 1024 / 1024:.2f} MB")
+        print(f"Storage size: {stats['storageSize'] / 1024 / 1024:.2f} MB")
+        print(f"Indexes: {stats['indexes']}")
+        print(f"Index size: {stats['indexSize'] / 1024 / 1024:.2f} MB")
+
+    def rebuild_index(self):
+        """Rebuild the compound unique index on word + language."""
+        print("Dropping all indexes...")
+        self.word_coll.drop_indexes()
+        print("Creating new compound index on word + language...")
+        self.word_coll.create_index(
+            [(WORD, pymongo.ASCENDING), (LANGUAGE, pymongo.ASCENDING)],
+            unique=True
+        )
+        print("Index rebuilt successfully.")
 
 
 class PseudoResult(_WriteResult):
