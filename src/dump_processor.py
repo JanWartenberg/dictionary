@@ -2,10 +2,10 @@
 
 from typing import Optional, Generator, Tuple
 
-from dumpparser import MediaWikiPageExtractor
-from dictparser import DeWiktParser
-from mongodb_connect import MongoHandler
-from word import Word
+from src.dumpparser import MediaWikiPageExtractor
+from src.dictparser import DeWiktParser
+from src.mongodb_connect import MongoHandler
+from src.word import Word
 
 
 class DumpProcessor:

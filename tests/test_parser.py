@@ -1,10 +1,9 @@
-# from io import StringIO
 import os
 import shutil
 import tempfile
 import unittest
 
-from dictparser import TextParser, DeWiktParser
+from src.dictparser import TextParser, DeWiktParser
 
 
 def abs_test_path(filename: str) -> str:
@@ -34,6 +33,7 @@ class TestParser(unittest.TestCase):
         print(res)
 
 
+# TODO: dramatically extend the test cases
 class TestDeWiktParser(unittest.TestCase):
     def setUp(self):
         """Load example wiki text for each test"""

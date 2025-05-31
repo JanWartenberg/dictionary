@@ -6,7 +6,7 @@ from bson import json_util
 from pymongo.errors import DuplicateKeyError
 from pymongo.results import _WriteResult
 
-from word import Word, WORD, LANGUAGE
+from src.word import Word, WORD, LANGUAGE
 
 MONGO_HOST = "127.0.0.1"
 MONGO_PORT = 27017

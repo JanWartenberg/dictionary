@@ -4,9 +4,9 @@ import unittest
 # import mongomock
 from pymongo.collection import InsertOneResult
 
-from mongodb_connect import MongoHandler
-from word import Word, WordError
-from word import WORD
+from src.mongodb_connect import MongoHandler
+from src.word import Word, WordError
+from src.word import WORD
 
 
 def abs_test_path(filename: str) -> str:

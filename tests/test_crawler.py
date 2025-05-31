@@ -4,15 +4,13 @@ import unittest
 from bson import json_util
 from requests import Response
 
-import crawler
-
-from crawler import APK_LIST, CAT_MEMBERS, RESP_QUERY
+from src.crawler import APK_LIST, CAT_MEMBERS, RESP_QUERY, Crawler
 from tests.base import all_instance_of
 
 
 class TestCrawler(unittest.TestCase):
     def setUp(self):
-        self.crawler = crawler.Crawler("de", "wiktionary")
+        self.crawler = Crawler("de", "wiktionary")
 
     def test_get_api_request(self):
         cat = "Kategorie:Deutsch"

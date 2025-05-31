@@ -2,15 +2,14 @@
 
 from pathlib import Path
 
-from crawler import Crawler
-
-from dictparser import (
+from src.crawler import Crawler
+from src.dictparser import (
     DeWiktParser,
 )
-from dumpparser import MediaWikiPageExtractor, MediaWikiTitleExtractor
-from mongodb_connect import MongoHandler
-from word import TOPICS, PART_OF_SPEECH, LANGUAGE, Word, to_words
-from dump_processor import DumpProcessor
+from src.dumpparser import MediaWikiPageExtractor, MediaWikiTitleExtractor
+from src.mongodb_connect import MongoHandler
+from src.word import TOPICS, PART_OF_SPEECH, LANGUAGE, Word, to_words
+from src.dump_processor import DumpProcessor
 
 CAT_GERMAN = "Kategorie:Deutsch"
 TEMPLATE_GERMAN = "{{Sprache|Deutsch}}"

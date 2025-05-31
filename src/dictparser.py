@@ -5,8 +5,8 @@ which parse some input into Word() class.
 
 import re
 
-from word import Word
-from word import (
+from src.word import Word
+from src.word import (
     LANGUAGE,
     PART_OF_SPEECH,
     TOPICS,
