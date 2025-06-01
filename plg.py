@@ -1,6 +1,7 @@
 """Command-line interface for dictionary operations."""
-
+import os
 from pathlib import Path
+from dotenv import load_dotenv
 
 from src.crawler import Crawler
 from src.dictparser import (
@@ -10,6 +11,8 @@ from src.dumpparser import MediaWikiPageExtractor, MediaWikiTitleExtractor
 from src.mongodb_connect import MongoHandler
 from src.word import TOPICS, PART_OF_SPEECH, LANGUAGE, Word, to_words
 from src.dump_processor import DumpProcessor
+
+load_dotenv()
 
 CAT_GERMAN = "Kategorie:Deutsch"
 TEMPLATE_GERMAN = "{{Sprache|Deutsch}}"
@@ -50,9 +53,7 @@ def parse_wikt_dump(dump_file_path: str = None):
         dump_file_path: Optional path to dump file. If None, uses default path.
     """
     if dump_file_path is None:
-        dump_file_path = (
-            r"D:\Docs\Sonstiges\dewiktionary-20220521-pages-articles-multistream_crop.xml"
-        )
+        dump_file_path = os.getenv("XML_DUMP_INPUT")
 
     processor = DumpProcessor()
     processed, stored = processor.process_dump(dump_file_path)

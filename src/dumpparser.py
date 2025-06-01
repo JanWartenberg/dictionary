@@ -8,7 +8,8 @@ https://stackoverflow.com/a/55147982
 """
 
 from lxml import etree
-
+import os
+from dotenv import load_dotenv
 
 TITLE = "title"
 TEXT = "text"
@@ -18,14 +19,9 @@ XPATH_TO_TEXT = f"./{NAMESPACE}:revision/{NAMESPACE}:{TEXT}/{TEXT}( )"
 XPATH_TO_TITLE = f"./{NAMESPACE}:title/text( )"
 XPATH_TO_NAMESPACE = f"./{NAMESPACE}:ns/text( )"
 
-dump_file_path = (
-    r"D:\Docs\Sonstiges\dewiktionary-20220521-pages-articles-multistream.xml"
-)
-# dump_file_path = (
-#     r"D:\Docs\Sonstiges\dewiktionary-20220521-pages-articles-multistream_crop.xml"
-# )
-# dump_file_path = r"D:\Docs\Sonstiges\dewiktionary-20220521-pages-articles-multistream_crop_nons.xml"
-# current_ns = "http://www.mediawiki.org/xml/export-0.10/"
+load_dotenv()
+dump_file_path = os.getenv("XML_DUMP_INPUT")
+
 """
 entity = {}
 # Assign the 'elem.namespace' to the 'xpath'

@@ -1,4 +1,6 @@
 import datetime
+import os
+from dotenv import load_dotenv
 
 import pymongo
 from bson import ObjectId
@@ -8,10 +10,14 @@ from pymongo.results import _WriteResult
 
 from src.word import Word, WORD, LANGUAGE
 
-MONGO_HOST = "127.0.0.1"
-MONGO_PORT = 27017
-DB_NAME = "word_db"
-COL_NAME = "words"
+# Load environment variables
+load_dotenv()
+
+# MongoDB connection settings with defaults
+MONGO_HOST = os.getenv("MONGO_HOST", "127.0.0.1")
+MONGO_PORT = int(os.getenv("MONGO_PORT", "27017"))
+DB_NAME = os.getenv("MONGO_DB_NAME", "word_db")
+COL_NAME = os.getenv("MONGO_COLLECTION", "words")
 
 
 class MongoHandler(object):
